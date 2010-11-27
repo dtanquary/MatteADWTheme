@@ -1,9 +1,6 @@
 package com.dtanquary.matteadwtheme;
 
 import java.util.ArrayList;
-
-import com.dtanquary.matteadwtheme.R;
-
 import android.app.Activity;
 import android.content.Context;
 import android.content.Intent;
