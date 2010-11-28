@@ -1,5 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="icon_pack" translatable="false">
+		<item>ic_tray_expand</item>
+		<item>com_alphonso_pulse</item>
+		<item>com_android_browser_browseractivity</item>
+		<item>com_android_calculator2_calculator</item>
+		<item>com_android_calendar_launchactivity</item>
+		<item>com_android_camera_camera</item>
+		<item>com_android_camera_videocamera</item>
+		<item>com_android_contacts_dialtactsactivity</item>
+		<item>com_android_contacts_dialtactscontactsentryactivity</item>
+		<item>com_android_deskclock_deskclock</item>
+		<item>com_android_email_activity_welcome</item>
+		<item>com_android_mms_ui_conversationlist</item>
+		<item>com_android_settings_settings</item>
+		<item>com_android_speechrecorder_speechrecorderactivity</item>
+		<item>com_android_vending_assetbrowseractivity</item>
+		<item>com_apksoftware_compass_compass</item>
+		<item>com_cooliris_media_gallery</item>
+		<item>com_facebook_katana_loginactivity</item>
+		<item>com_google_android_apps_genie_geniewidget_activities_newsactivity</item>
+		<item>com_google_android_gm_conversationlistactivitygmail</item>
+		<item>com_google_android_googlequicksearchbox_searchactivity</item>
+		<item>com_google_android_maps_mapsactivity</item>
+		<item>com_google_android_music_musicbrowseractivity</item>
+		<item>com_google_android_talk_signinginactivity</item>
+		<item>com_google_android_voicesearch_recognitionactivity</item>
+		<item>com_google_android_youtube_homeactivity</item>
+		<item>com_google_zxing_client_android_captureactivity</item>
+		<item>com_htc_pdfreader_myfilepickeractivity</item>
+		<item>com_metago_astro_filemanageractivity</item>
+		<item>com_noshufou_android_su_su</item>
+		<item>com_skype_android_lite_skypeactivity</item>
+		<item>com_twitter_android_loginactivity</item>
+		<item>fm_last_android_lastfm</item>
+		<item>focused_application_background.9</item>
+		<item>org_dayup_gtask_googletaskactivity</item>
     </string-array>
 </resources>
