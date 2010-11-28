@@ -31,6 +31,7 @@ or &lt;a href="http://www.twitter.com/sn0wmis3r">follow me on twitter&lt;/a>.&lt
 <string name="config_desktop_indicator_type">1</string>
 <!-- config_ab_scalefactor is a float value between 0.1 and 0.8. Set here the default .X (-1, 6 will become 7) -->
 <integer name="config_ab_scale_factor">6</integer>
-<!-- Force the theme to enable/disable the secondary actionbuttons -->
-<bool name="secondary_ab">false</bool>
+<!-- Force the theme to use an specific dock style -->
+<!--  0=None, 1=3buttons, 2=5buttons, 3=1button -->
+<string name="main_dock_style">1</string>
 </resources>

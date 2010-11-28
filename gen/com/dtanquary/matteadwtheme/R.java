@@ -23,9 +23,6 @@ public final class R {
         /**  ADWSettings theme config  
          */
         public static final int config_uiTint=0x7f090001;
-        /**  Force the theme to enable/disable the secondary actionbuttons 
-         */
-        public static final int secondary_ab=0x7f090008;
         public static final int use_drawer_icons_bg=0x7f090000;
     }
     public static final class color {
@@ -278,6 +275,10 @@ public final class R {
         /**  1=top dots, 2=top slider, 3=bottom slider 
          */
         public static final int config_desktop_indicator_type=0x7f060002;
+        /**  Force the theme to use an specific dock style 
+  0=None, 1=3buttons, 2=5buttons, 3=1button 
+         */
+        public static final int main_dock_style=0x7f060003;
         /**  To devs, read here on howto format/style your descriptions 
  http://developer.android.com/intl/de/guide/topics/resources/string-resource.html#FormattingAndStyling 
          */
